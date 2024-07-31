@@ -1751,8 +1751,8 @@ ENVIRONMENT_TAG_CONFIG = {
             "text": "flask-debug",
         },
         "development": {
-            "color": "error.base",
-            "text": "Development",
+            "color": "",
+            "text": "",
         },
         "production": {
             "color": "",
